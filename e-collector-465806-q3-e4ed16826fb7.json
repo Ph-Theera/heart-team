@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "e-collector-465806-q3",
+  "private_key_id": "e4ed16826fb7243cfc2efc3e1cfb653051fd93ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxx8xqWSCIeJqk\nl7AvOy+Sj/FrH+c5A17bB/6VLLffXNjCLF4vt8zueIUp7F/WkUjwAsxYbwFx/b9+\nYXG0hTqRJJ8Yb1i9DCJpML7mMVaY/+u1irx5bDk3PblZK3OX5lBjknZwpelChrsz\nrH5HBuvdVirf3RVQDpe+d8H++LS7UWRaHSP1aNBeJErkO34/5BgTcUvxGvghIs7Z\nqfQlcMKgrSSWZcVNgUBj5G27Vc4Otw41eg278J0ARNZXhpYGZCJj0en9JwcWn2q0\nAoxSEPT6BiXLExX/7f4UsgePv/R+huov6L9FxvyAqGHtRXnYVz7qUZyALWz5v3sd\nZRYuFbzPAgMBAAECggEAEueVJCXwILL6dtAuiwc3KtWlrWeKFfT2zEHQX5qOvvDH\nl/ZR2a8o2p70Qh4BnvZ6FBOoGStMswtxpoXEKpcUQETtqhKFFC1LJ3Zohl/uvnxQ\nW1CydBL/DpHAuOu28gsqtzvm3lm2MT3UgE0ybGkfAb1c98sxrf6vQjDH704RIe37\nMaor/f1+bSjJpVoC+Wr/sVErgoGwTeVlNzocPCY6eOFuhbvE/IFBoqMujtCflYa3\nTYmsqzrho1JJGGRcj7fBTpBszqBUtumS70AnWdHCxQWqCqbLukI0isBtcqXtgTHM\n3pWZt/rYyO/30vREq9PTw2sH+5lN+sbBVbJIWlvT0QKBgQDq8iwJRmv7YMjzvRNN\n+sY8vC4XvQ/wIa6W/QLgvgt/jSWnw+8a5o1g+Ng3ONJTzh5LgJcBTsyyqVDZueHf\nQl0ZDY5SmuEVx20j0lRc2Rl/XzqI1IBAHI3cMuI3Pwk5ARyBSgLB9KJqr/UxgKsK\nlYPkoxwJ7TzP9N67hT68MSXiuQKBgQDBtjVxOSBy4rd6C5UOdXWvGfVVfwv+R1Ei\nDkS4vAz3lWyxkPS17TT13dk4BBrYGjw7z0NIyLK+EU7aBiwB4lJNwslTm4lfuSCA\n0VSbB+6C6Q9Pz1j3IWwBOh8m7nkWQWGEi3EXKA2n+UzbUGzASv++E2KOnsthZYj8\njm3oYfL3xwKBgQCc2vW/c36gI2vGHpOG2kgDQHddbeH4JeST9XM4bGjszWU4bj1y\nLj5xYXGo3Iy/WrsrGTy3qM5M8XGDCvDbx0i0czJzv+dKTQx2f/PG0UKOoRtJQuYk\n52tmeapBzBnyLuXDA5B3wUW2CKegVxDaThvyR1tu3S5egFM7yqepqP5sMQKBgAbi\nS8nnRtDuX6jVqolmATWkzYQpTKrPrAFy0lxiSm+t/rvcs+WXNW+bX7HO64lMfWF+\nvxxiDYAVq2CyIXQ7r8MVrgPrnhkpwg7x4XjU8lPyplmmu7mklWsBvsOqa+Evl6CX\nOACjqsCSannMxOCcibQeij0ZRY8Dhbe79AnzGShXAoGAYup+3Q4UQuWkoATvvwhm\nZvSADonysnMaTGOUJQoJ25LDK7gjnC5gu4x9kuqYZa/O3/bvkjlbcL5UPlaR9Qvk\nAsBwhhhZ6SVKbKL6SSIqvF9CUwFtI06YgKVR8KLjOlD3VBCQaydLZdu79J7a/Ddl\ni1ZGFGC7xNopgOJxHDm937M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "heart-team@e-collector-465806-q3.iam.gserviceaccount.com",
+  "client_id": "113753237723094303568",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/heart-team%40e-collector-465806-q3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
